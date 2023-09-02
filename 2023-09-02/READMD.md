@@ -1,4 +1,4 @@
-## 상속, 접근지정자
+# 상속, 접근지정자
 
 1. **public:**
    - `public` 접근 제어자는 가장 넓은 범위의 접근 권한을 가짐
@@ -60,6 +60,7 @@ public class PassRef {
         System.out.print(" obj2.a = " + obj2.a);  // obj2 객체의 a 출력
     }
 }
+````
 
 **상속, 객체 생성**
 ````
